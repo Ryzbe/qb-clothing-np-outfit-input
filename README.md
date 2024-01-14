@@ -145,5 +145,4 @@ https://discord.gg/FT9s9rvtXS
                 </div>
             </div>
         </div>
-    </div>
 ```
