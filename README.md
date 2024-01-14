@@ -2,6 +2,8 @@
 
 https://discord.gg/FT9s9rvtXS
 
+![IMG](https://cdn.discordapp.com/attachments/1155541970597449838/1196202278554701945/image.png?ex=65b6c52f&is=65a4502f&hm=0d699b029134df43e2242f4a46eadb0d6eb2e309fc65442066891f63e9d2858a&)
+
 
 - Replace your style.css with the one below
 
