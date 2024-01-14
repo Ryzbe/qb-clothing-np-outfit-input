@@ -125,3 +125,25 @@ https://discord.gg/FT9s9rvtXS
     letter-spacing: 0.75px;
 }
 ```
+
+- HTML
+
+```html
+        <div class="clothing-menu-save-outfit-name">
+            <div class="clothing-menu-save-outfit-name-header">
+                <p id="outfit_name" data-tkey="outfit_name">Outfit Name</p>
+            </div>
+
+            <input type="text" id="outfit-name" placeholder="Outfit Name">
+
+            <div class="clothing-menu-save-outfit-name-buttons">
+                <div class="clothing-menu-save-outfit-name-button" id="save-outfit-save">
+                    <p data-tkey="btn_confirm">Confirm</p>
+                </div>
+                <div class="clothing-menu-save-outfit-name-button2" id="cancel-outfit-save">
+                    <p data-tkey="btn_cancel">Cancel</p>
+                </div>
+            </div>
+        </div>
+    </div>
+```
